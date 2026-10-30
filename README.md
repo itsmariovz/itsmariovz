@@ -20,4 +20,4 @@ Diseño, construyo y protejo aplicaciones web. Entiendo cómo se estructura el c
 ### 📂 Repositorios destacados
 * 🌐 **[Portfolio Web (mariovazquez.es)](https://www.mariovazquez.es/)** — Arquitectura en React con sección de Writeups técnicos.
 * 🐍 **Scripts de Seguridad y Automatización en Python** — *(Próximamente)* Herramientas propias para auditoría de cabeceras HTTP e integridad de datos.
-* 🥋 **Otadojo** https://github.com/itsmariovz/otadojo— Aplicación Full-Stack con control de accesos basado en roles (RBAC) y API REST.
+* 🥋 **Otadojo**— Aplicación Full-Stack con control de accesos basado en roles (RBAC) y API REST.
